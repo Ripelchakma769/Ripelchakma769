@@ -17,12 +17,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Ripel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ripelchakma769&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ripelchakma769&layout=compact&theme=radical)
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ripelchakma769&theme=radical)
